@@ -1,0 +1,25 @@
+{
+  "expo": {
+    "name": "App Inventario",
+    "slug": "app-prueba-antigravity",
+    "version": "1.0.0",
+    "orientation": "portrait",
+    "userInterfaceStyle": "light",
+    "newArchEnabled": true,
+    "splash": {
+      "resizeMode": "contain",
+      "backgroundColor": "#0F172A"
+    },
+    "ios": {
+      "supportsTablet": true
+    },
+    "android": {
+      "adaptiveIcon": {
+        "backgroundColor": "#0F172A"
+      }
+    },
+    "plugins": [
+      "expo-asset"
+    ]
+  }
+}

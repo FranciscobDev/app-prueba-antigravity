@@ -1,0 +1,10 @@
+{
+  "description": "Manage inventory efficiently with a user-friendly interface designed for professionals, featuring role-based access and intuitive navigation for seamless tracking.",
+  "robots": {
+    "index": false
+  },
+  "accessibility": {
+    "addBypassLinks": false,
+    "ignoreReducedMotion": false
+  }
+}
